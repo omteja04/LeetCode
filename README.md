@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/omteja04/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/omteja04/LeetCode/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/omteja04/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Array
+|  |
+| ------- |
+| [2067-maximum-number-of-points-with-cost](https://github.com/omteja04/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2067-maximum-number-of-points-with-cost](https://github.com/omteja04/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 <!---LeetCode Topics End-->
