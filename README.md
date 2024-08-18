@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/omteja04/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/omteja04/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/omteja04/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0322-coin-change](https://github.com/omteja04/LeetCode/tree/master/0322-coin-change) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/omteja04/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Dynamic Programming
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/omteja04/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/omteja04/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0264-ugly-number-ii](https://github.com/omteja04/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0322-coin-change](https://github.com/omteja04/LeetCode/tree/master/0322-coin-change) |
 | [1013-fibonacci-number](https://github.com/omteja04/LeetCode/tree/master/1013-fibonacci-number) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/omteja04/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Hash Table
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/omteja04/LeetCode/tree/master/0064-minimum-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/omteja04/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
