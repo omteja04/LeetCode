@@ -4,7 +4,7 @@ public:
         int n = coins.size();
         vector<int> dp(amount + 1, INT_MAX);
         dp[0] = 0;
-        for (int amt = 0; amt <= amount; amt++) {
+        for (int amt = 1; amt <= amount; amt++) {
             for (int i = 0; i < n; i++) {
                 if (amt - coins[i] >= 0 && dp[amt - coins[i]] != INT_MAX) {
                     dp[amt] = min(dp[amt], dp[amt - coins[i]] + 1);
