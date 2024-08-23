@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/omteja04/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/omteja04/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0322-coin-change](https://github.com/omteja04/LeetCode/tree/master/0322-coin-change) |
+| [0979-di-string-match](https://github.com/omteja04/LeetCode/tree/master/0979-di-string-match) |
 | [1240-stone-game-ii](https://github.com/omteja04/LeetCode/tree/master/1240-stone-game-ii) |
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/omteja04/LeetCode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/omteja04/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -88,8 +89,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/omteja04/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0979-di-string-match](https://github.com/omteja04/LeetCode/tree/master/0979-di-string-match) |
 ## Simulation
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/omteja04/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+## Two Pointers
+|  |
+| ------- |
+| [0979-di-string-match](https://github.com/omteja04/LeetCode/tree/master/0979-di-string-match) |
+## Greedy
+|  |
+| ------- |
+| [0979-di-string-match](https://github.com/omteja04/LeetCode/tree/master/0979-di-string-match) |
 <!---LeetCode Topics End-->
