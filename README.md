@@ -122,4 +122,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/omteja04/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+## Stack
+|  |
+| ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/omteja04/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/omteja04/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/omteja04/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
