@@ -1,11 +1,5 @@
 class Solution {
 public:
-    static bool custom(const vector<int> &a, const vector<int> &b, int power) {
-        int A = a[0] * ((b[1] + power - 1) / power);
-        int B = b[0] * ((a[1] + power - 1) / power);
-        return B < A;
-    }
-
     long long minDamage(int power, vector<int>& damage, vector<int>& health) {
         int n = damage.size();
         vector<pair<int, int>> damageAndTime;
