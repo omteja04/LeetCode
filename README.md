@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/omteja04/LeetCode/tree/master/1240-stone-game-ii) |
 | [1284-four-divisors](https://github.com/omteja04/LeetCode/tree/master/1284-four-divisors) |
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/omteja04/LeetCode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/omteja04/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/omteja04/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/omteja04/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Dynamic Programming
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/omteja04/LeetCode/tree/master/1240-stone-game-ii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/omteja04/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/omteja04/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/omteja04/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/omteja04/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Two Pointers
 |  |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/omteja04/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0441-arranging-coins](https://github.com/omteja04/LeetCode/tree/master/0441-arranging-coins) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/omteja04/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Stack
 |  |
 | ------- |
