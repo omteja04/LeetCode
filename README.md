@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/omteja04/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0204-count-primes](https://github.com/omteja04/LeetCode/tree/master/0204-count-primes) |
 | [0300-longest-increasing-subsequence](https://github.com/omteja04/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/omteja04/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/omteja04/LeetCode/tree/master/0322-coin-change) |
 | [0906-walking-robot-simulation](https://github.com/omteja04/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0979-di-string-match](https://github.com/omteja04/LeetCode/tree/master/0979-di-string-match) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/omteja04/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/omteja04/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0441-arranging-coins](https://github.com/omteja04/LeetCode/tree/master/0441-arranging-coins) |
 | [0923-super-egg-drop](https://github.com/omteja04/LeetCode/tree/master/0923-super-egg-drop) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/omteja04/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -166,4 +168,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/omteja04/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/omteja04/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/omteja04/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/omteja04/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/omteja04/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/omteja04/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
