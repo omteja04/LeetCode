@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/omteja04/LeetCode/tree/master/1013-fibonacci-number) |
 | [1240-stone-game-ii](https://github.com/omteja04/LeetCode/tree/master/1240-stone-game-ii) |
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/omteja04/LeetCode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
+| [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/omteja04/LeetCode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/omteja04/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Hash Table
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/omteja04/LeetCode/tree/master/1013-fibonacci-number) |
 | [1240-stone-game-ii](https://github.com/omteja04/LeetCode/tree/master/1240-stone-game-ii) |
 | [1284-four-divisors](https://github.com/omteja04/LeetCode/tree/master/1284-four-divisors) |
+| [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/omteja04/LeetCode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2155-find-missing-observations](https://github.com/omteja04/LeetCode/tree/master/2155-find-missing-observations) |
 ## Heap (Priority Queue)
 |  |
