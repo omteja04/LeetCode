@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/omteja04/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0906-walking-robot-simulation](https://github.com/omteja04/LeetCode/tree/master/0906-walking-robot-simulation) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/omteja04/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/omteja04/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/omteja04/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0564-find-the-closest-palindrome](https://github.com/omteja04/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/omteja04/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/omteja04/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0979-di-string-match](https://github.com/omteja04/LeetCode/tree/master/0979-di-string-match) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/omteja04/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/omteja04/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/omteja04/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/omteja04/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Brainteaser
 |  |
