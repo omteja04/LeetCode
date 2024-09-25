@@ -34,18 +34,18 @@ public:
             node->increasePrefix();
         }
     }
-    int countWordsStartingWith(string &word) {
+    int cntPrefixScore(string &word) {
+        int cnt = 0;
         Node* node = root;
         for(int i = 0; i < word.length(); i++) {
             if(!node->containsKey(word[i])) {
-                return 0;
+                break;
             }
             node = node->get(word[i]);
+            cnt += node->getPrefix();
+            
         }
-        return node->getPrefix();
-    }
-    Node* getRoot() {
-        return root;
+        return cnt;
     }
 
 };
@@ -57,19 +57,9 @@ public:
             trie.insert(word);
         }
         vector<int>ans;
-        for(auto word: words) {
-            int cnt = 0;
-            Node* node = trie.getRoot();
-            for(char ch: word) {
-                if(node->containsKey(ch)) {
-                    node = node->get(ch);
-                    cnt += node->getPrefix();
-                } else{
-                    break;
-                }
-            }
-            
-            ans.push_back(cnt);
+        
+        for(string &word: words){    
+            ans.push_back(trie.cntPrefixScore(word));
         }
         return ans;
 
