@@ -51,10 +51,6 @@ public:
 };
 class Solution {
 public:
-    Solution() {
-        ios::sync_with_stdio(false);
-        cin.tie(nullptr);
-    }
     vector<int> sumPrefixScores(vector<string>& words) {
         Trie trie;
         for(auto &word: words) {
