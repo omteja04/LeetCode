@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/omteja04/LeetCode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/omteja04/LeetCode/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/omteja04/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0441-arranging-coins](https://github.com/omteja04/LeetCode/tree/master/0441-arranging-coins) |
 | [0564-find-the-closest-palindrome](https://github.com/omteja04/LeetCode/tree/master/0564-find-the-closest-palindrome) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/omteja04/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/omteja04/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/omteja04/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/omteja04/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/omteja04/LeetCode/tree/master/0231-power-of-two) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/omteja04/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/omteja04/LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/omteja04/LeetCode/tree/master/0476-number-complement) |
