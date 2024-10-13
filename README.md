@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/omteja04/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/omteja04/LeetCode/tree/master/0322-coin-change) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/omteja04/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/omteja04/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0729-my-calendar-i](https://github.com/omteja04/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/omteja04/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/omteja04/LeetCode/tree/master/0859-design-circular-deque) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/omteja04/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/omteja04/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0432-all-oone-data-structure](https://github.com/omteja04/LeetCode/tree/master/0432-all-oone-data-structure) |
+| [0560-subarray-sum-equals-k](https://github.com/omteja04/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/omteja04/LeetCode/tree/master/0567-permutation-in-string) |
 | [0906-walking-robot-simulation](https://github.com/omteja04/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/omteja04/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/omteja04/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/omteja04/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/omteja04/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1240-stone-game-ii](https://github.com/omteja04/LeetCode/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/omteja04/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
