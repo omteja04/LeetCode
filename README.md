@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/omteja04/LeetCode/tree/master/0441-arranging-coins) |
 | [0564-find-the-closest-palindrome](https://github.com/omteja04/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/omteja04/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0670-maximum-swap](https://github.com/omteja04/LeetCode/tree/master/0670-maximum-swap) |
 | [0923-super-egg-drop](https://github.com/omteja04/LeetCode/tree/master/0923-super-egg-drop) |
 | [1013-fibonacci-number](https://github.com/omteja04/LeetCode/tree/master/1013-fibonacci-number) |
 | [1240-stone-game-ii](https://github.com/omteja04/LeetCode/tree/master/1240-stone-game-ii) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/omteja04/LeetCode/tree/master/0179-largest-number) |
+| [0670-maximum-swap](https://github.com/omteja04/LeetCode/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/omteja04/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/omteja04/LeetCode/tree/master/0979-di-string-match) |
 | [1304-longest-happy-string](https://github.com/omteja04/LeetCode/tree/master/1304-longest-happy-string) |
