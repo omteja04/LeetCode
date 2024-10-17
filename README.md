@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/omteja04/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/omteja04/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/omteja04/LeetCode/tree/master/0337-house-robber-iii) |
 | [0572-subtree-of-another-tree](https://github.com/omteja04/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/omteja04/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/omteja04/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/omteja04/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/omteja04/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/omteja04/LeetCode/tree/master/0337-house-robber-iii) |
 | [0386-lexicographical-numbers](https://github.com/omteja04/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/omteja04/LeetCode/tree/master/0547-number-of-provinces) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/omteja04/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/omteja04/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/omteja04/LeetCode/tree/master/0337-house-robber-iii) |
 | [0572-subtree-of-another-tree](https://github.com/omteja04/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Backtracking
@@ -405,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/omteja04/LeetCode/tree/master/0547-number-of-provinces) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/omteja04/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
