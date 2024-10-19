@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/omteja04/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/omteja04/LeetCode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/omteja04/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/omteja04/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/omteja04/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/omteja04/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/omteja04/LeetCode/tree/master/0139-word-break) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/omteja04/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/omteja04/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/omteja04/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/omteja04/LeetCode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/omteja04/LeetCode/tree/master/1036-rotting-oranges) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/omteja04/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/omteja04/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/omteja04/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/omteja04/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/omteja04/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
