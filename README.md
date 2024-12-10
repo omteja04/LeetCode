@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/omteja04/LeetCode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/omteja04/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/omteja04/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/omteja04/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/omteja04/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/omteja04/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/omteja04/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/omteja04/LeetCode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/omteja04/LeetCode/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/omteja04/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/omteja04/LeetCode/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/omteja04/LeetCode/tree/master/0264-ugly-number-ii) |
@@ -498,4 +500,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/omteja04/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/omteja04/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
