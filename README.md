@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/omteja04/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/omteja04/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/omteja04/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2300-construct-string-with-repeat-limit](https://github.com/omteja04/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/omteja04/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/omteja04/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/omteja04/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/omteja04/LeetCode/tree/master/0264-ugly-number-ii) |
 | [1304-longest-happy-string](https://github.com/omteja04/LeetCode/tree/master/1304-longest-happy-string) |
 | [1917-maximum-average-pass-ratio](https://github.com/omteja04/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [2300-construct-string-with-repeat-limit](https://github.com/omteja04/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/omteja04/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/omteja04/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/omteja04/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/omteja04/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/omteja04/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2232-adding-spaces-to-a-string](https://github.com/omteja04/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2300-construct-string-with-repeat-limit](https://github.com/omteja04/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/omteja04/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2580-circular-sentence](https://github.com/omteja04/LeetCode/tree/master/2580-circular-sentence) |
 | [3195-separate-black-and-white-balls](https://github.com/omteja04/LeetCode/tree/master/3195-separate-black-and-white-balls) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/omteja04/LeetCode/tree/master/0979-di-string-match) |
 | [1304-longest-happy-string](https://github.com/omteja04/LeetCode/tree/master/1304-longest-happy-string) |
 | [1917-maximum-average-pass-ratio](https://github.com/omteja04/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [2300-construct-string-with-repeat-limit](https://github.com/omteja04/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/omteja04/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/omteja04/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/omteja04/LeetCode/tree/master/3195-separate-black-and-white-balls) |
@@ -409,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/omteja04/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/omteja04/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2300-construct-string-with-repeat-limit](https://github.com/omteja04/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/omteja04/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Brainteaser
 |  |
