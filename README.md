@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/omteja04/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/omteja04/LeetCode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/omteja04/LeetCode/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/omteja04/LeetCode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/omteja04/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/omteja04/LeetCode/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/omteja04/LeetCode/tree/master/0264-ugly-number-ii) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/omteja04/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/omteja04/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/omteja04/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/omteja04/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/omteja04/LeetCode/tree/master/0268-missing-number) |
