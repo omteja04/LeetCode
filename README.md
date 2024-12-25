@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/omteja04/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/omteja04/LeetCode/tree/master/0322-coin-change) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/omteja04/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/omteja04/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/omteja04/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/omteja04/LeetCode/tree/master/0733-flood-fill) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/omteja04/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/omteja04/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/omteja04/LeetCode/tree/master/0337-house-robber-iii) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/omteja04/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/omteja04/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/omteja04/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/omteja04/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/omteja04/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/omteja04/LeetCode/tree/master/0337-house-robber-iii) |
 | [0386-lexicographical-numbers](https://github.com/omteja04/LeetCode/tree/master/0386-lexicographical-numbers) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/omteja04/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/omteja04/LeetCode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/omteja04/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/omteja04/LeetCode/tree/master/0733-flood-fill) |
@@ -500,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/omteja04/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/omteja04/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/omteja04/LeetCode/tree/master/0337-house-robber-iii) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/omteja04/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/omteja04/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/omteja04/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/omteja04/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
