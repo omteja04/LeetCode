@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/omteja04/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0979-di-string-match](https://github.com/omteja04/LeetCode/tree/master/0979-di-string-match) |
 | [1002-maximum-width-ramp](https://github.com/omteja04/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1025-minimum-cost-for-tickets](https://github.com/omteja04/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/omteja04/LeetCode/tree/master/1036-rotting-oranges) |
 | [1240-stone-game-ii](https://github.com/omteja04/LeetCode/tree/master/1240-stone-game-ii) |
 | [1284-four-divisors](https://github.com/omteja04/LeetCode/tree/master/1284-four-divisors) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/omteja04/LeetCode/tree/master/0542-01-matrix) |
 | [0923-super-egg-drop](https://github.com/omteja04/LeetCode/tree/master/0923-super-egg-drop) |
 | [1013-fibonacci-number](https://github.com/omteja04/LeetCode/tree/master/1013-fibonacci-number) |
+| [1025-minimum-cost-for-tickets](https://github.com/omteja04/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1240-stone-game-ii](https://github.com/omteja04/LeetCode/tree/master/1240-stone-game-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/omteja04/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/omteja04/LeetCode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
