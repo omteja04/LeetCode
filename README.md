@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/omteja04/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/omteja04/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/omteja04/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/omteja04/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/omteja04/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/omteja04/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/omteja04/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/omteja04/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/omteja04/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/omteja04/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/omteja04/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/omteja04/LeetCode/tree/master/3427-special-array-ii) |
 ## Game Theory
 |  |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/omteja04/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/omteja04/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2580-circular-sentence](https://github.com/omteja04/LeetCode/tree/master/2580-circular-sentence) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/omteja04/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3195-separate-black-and-white-balls](https://github.com/omteja04/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/omteja04/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Simulation
