@@ -8,7 +8,7 @@ public:
         for(int left = 0, right = 0; right < n; right++) {
             if(nums[right] == 0) zeros++;
             cout << zeros <<" ";
-            while(zeros  > k) {
+            if(zeros  > k) {
                 if(nums[left] == 0) {
                     zeros--;
                 }
