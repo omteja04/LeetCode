@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/omteja04/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/omteja04/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/omteja04/LeetCode/tree/master/1036-rotting-oranges) |
+| [1046-max-consecutive-ones-iii](https://github.com/omteja04/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1240-stone-game-ii](https://github.com/omteja04/LeetCode/tree/master/1240-stone-game-ii) |
 | [1284-four-divisors](https://github.com/omteja04/LeetCode/tree/master/1284-four-divisors) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/omteja04/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/omteja04/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/omteja04/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/omteja04/LeetCode/tree/master/0731-my-calendar-ii) |
+| [1046-max-consecutive-ones-iii](https://github.com/omteja04/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1240-stone-game-ii](https://github.com/omteja04/LeetCode/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/omteja04/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/omteja04/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/omteja04/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0910-nth-magical-number](https://github.com/omteja04/LeetCode/tree/master/0910-nth-magical-number) |
 | [0923-super-egg-drop](https://github.com/omteja04/LeetCode/tree/master/0923-super-egg-drop) |
+| [1046-max-consecutive-ones-iii](https://github.com/omteja04/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/omteja04/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/omteja04/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/omteja04/LeetCode/tree/master/2449-maximum-number-of-robots-within-budget) |
@@ -592,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/omteja04/LeetCode/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/omteja04/LeetCode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/omteja04/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1046-max-consecutive-ones-iii](https://github.com/omteja04/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/omteja04/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/omteja04/LeetCode/tree/master/2449-maximum-number-of-robots-within-budget) |
 ## Monotonic Stack
