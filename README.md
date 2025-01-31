@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/omteja04/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/omteja04/LeetCode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/omteja04/LeetCode/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/omteja04/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/omteja04/LeetCode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/omteja04/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/omteja04/LeetCode/tree/master/0056-merge-intervals) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/omteja04/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/omteja04/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/omteja04/LeetCode/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/omteja04/LeetCode/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/omteja04/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/omteja04/LeetCode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/omteja04/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/omteja04/LeetCode/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/omteja04/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/omteja04/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/omteja04/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -581,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/omteja04/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/omteja04/LeetCode/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/omteja04/LeetCode/tree/master/0077-combinations) |
 | [0494-target-sum](https://github.com/omteja04/LeetCode/tree/master/0494-target-sum) |
