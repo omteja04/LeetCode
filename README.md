@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/omteja04/LeetCode/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/omteja04/LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/omteja04/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0221-maximal-square](https://github.com/omteja04/LeetCode/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/omteja04/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/omteja04/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/omteja04/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/omteja04/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/omteja04/LeetCode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/omteja04/LeetCode/tree/master/0139-word-break) |
+| [0221-maximal-square](https://github.com/omteja04/LeetCode/tree/master/0221-maximal-square) |
 | [0264-ugly-number-ii](https://github.com/omteja04/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/omteja04/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/omteja04/LeetCode/tree/master/0322-coin-change) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/omteja04/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/omteja04/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/omteja04/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0221-maximal-square](https://github.com/omteja04/LeetCode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/omteja04/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/omteja04/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/omteja04/LeetCode/tree/master/0733-flood-fill) |
