@@ -2,9 +2,7 @@ class Solution {
 public:
     int m, n;
     int solve(int i, int j, vector<vector<int>>& grid, vector<vector<int>>& dp) {
-        if(i >= m || j >= n) {
-            return INT_MAX;
-        }
+     
         if(i == m - 1 && j == n - 1) {
             return grid[i][j];
         }
