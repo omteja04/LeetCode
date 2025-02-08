@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/omteja04/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/omteja04/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/omteja04/LeetCode/tree/master/0322-coin-change) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/omteja04/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/omteja04/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0480-sliding-window-median](https://github.com/omteja04/LeetCode/tree/master/0480-sliding-window-median) |
 | [0494-target-sum](https://github.com/omteja04/LeetCode/tree/master/0494-target-sum) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/omteja04/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/omteja04/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/omteja04/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0480-sliding-window-median](https://github.com/omteja04/LeetCode/tree/master/0480-sliding-window-median) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/omteja04/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1304-longest-happy-string](https://github.com/omteja04/LeetCode/tree/master/1304-longest-happy-string) |
