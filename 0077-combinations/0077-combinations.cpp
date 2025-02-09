@@ -1,30 +1,20 @@
 class Solution {
 public:
- vector<vector<int>> ans;
-void search(int st, int n, int target,  vector<int>&subset) {
-        // if (i > target) return; 
-
+    vector<vector<int>> ans;
+    void solve(int start, int end, int target, vector<int> &subset) {
         if(subset.size() == target) {
-            // return;
-                ans.push_back(subset);
-                return;
+            ans.push_back(subset);
+            return;
         }
-
-        for(int i = st; i <= n; i++){
+        for(int i = start; i <= end; i++) {
             subset.push_back(i);
-            search(i + 1, n, target, subset);
+            solve(i + 1, end, target, subset);
             subset.pop_back();
         }
-
-
-        // search(i + 1, n, target, subset);
     }
     vector<vector<int>> combine(int n, int k) {
-        vector<int> subset;
-        // sort(candidates.begin(), candidates.end());
-        search(1, n, k, subset);
-        
+        vector<int>subset;
+        solve(1, n, k, subset);
         return ans;
-        
     }
 };
