@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/omteja04/LeetCode/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/omteja04/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/omteja04/LeetCode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/omteja04/LeetCode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/omteja04/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/omteja04/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/omteja04/LeetCode/tree/master/0056-merge-intervals) |
@@ -645,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/omteja04/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/omteja04/LeetCode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/omteja04/LeetCode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/omteja04/LeetCode/tree/master/0077-combinations) |
 | [0140-word-break-ii](https://github.com/omteja04/LeetCode/tree/master/0140-word-break-ii) |
 | [0494-target-sum](https://github.com/omteja04/LeetCode/tree/master/0494-target-sum) |
