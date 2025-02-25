@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/omteja04/LeetCode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/omteja04/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/omteja04/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/omteja04/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/omteja04/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/omteja04/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1833-find-the-highest-altitude](https://github.com/omteja04/LeetCode/tree/master/1833-find-the-highest-altitude) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/omteja04/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/omteja04/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/omteja04/LeetCode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/omteja04/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/omteja04/LeetCode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/omteja04/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Hash Table
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/omteja04/LeetCode/tree/master/1013-fibonacci-number) |
 | [1240-stone-game-ii](https://github.com/omteja04/LeetCode/tree/master/1240-stone-game-ii) |
 | [1284-four-divisors](https://github.com/omteja04/LeetCode/tree/master/1284-four-divisors) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/omteja04/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/omteja04/LeetCode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/omteja04/LeetCode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2155-find-missing-observations](https://github.com/omteja04/LeetCode/tree/master/2155-find-missing-observations) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/omteja04/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/omteja04/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/omteja04/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/omteja04/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1833-find-the-highest-altitude](https://github.com/omteja04/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/omteja04/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1983-maximum-population-year](https://github.com/omteja04/LeetCode/tree/master/1983-maximum-population-year) |
