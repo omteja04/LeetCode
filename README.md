@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/omteja04/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/omteja04/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/omteja04/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [2998-count-symmetric-integers](https://github.com/omteja04/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/omteja04/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/omteja04/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Heap (Priority Queue)
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/omteja04/LeetCode/tree/master/0204-count-primes) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/omteja04/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/omteja04/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2998-count-symmetric-integers](https://github.com/omteja04/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3270-minimum-moves-to-capture-the-queen](https://github.com/omteja04/LeetCode/tree/master/3270-minimum-moves-to-capture-the-queen) |
 ## Number Theory
 |  |
