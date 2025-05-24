@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/omteja04/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/omteja04/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/omteja04/LeetCode/tree/master/0979-di-string-match) |
+| [1122-longest-duplicate-substring](https://github.com/omteja04/LeetCode/tree/master/1122-longest-duplicate-substring) |
 | [1197-parsing-a-boolean-expression](https://github.com/omteja04/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/omteja04/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/omteja04/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-nth-magical-number](https://github.com/omteja04/LeetCode/tree/master/0910-nth-magical-number) |
 | [0923-super-egg-drop](https://github.com/omteja04/LeetCode/tree/master/0923-super-egg-drop) |
 | [1046-max-consecutive-ones-iii](https://github.com/omteja04/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1122-longest-duplicate-substring](https://github.com/omteja04/LeetCode/tree/master/1122-longest-duplicate-substring) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/omteja04/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/omteja04/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/omteja04/LeetCode/tree/master/2449-maximum-number-of-robots-within-budget) |
@@ -646,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/omteja04/LeetCode/tree/master/0214-shortest-palindrome) |
+| [1122-longest-duplicate-substring](https://github.com/omteja04/LeetCode/tree/master/1122-longest-duplicate-substring) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/omteja04/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
@@ -660,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/omteja04/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/omteja04/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [1122-longest-duplicate-substring](https://github.com/omteja04/LeetCode/tree/master/1122-longest-duplicate-substring) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/omteja04/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Trie
 |  |
@@ -731,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/omteja04/LeetCode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/omteja04/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1046-max-consecutive-ones-iii](https://github.com/omteja04/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1122-longest-duplicate-substring](https://github.com/omteja04/LeetCode/tree/master/1122-longest-duplicate-substring) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/omteja04/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/omteja04/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/omteja04/LeetCode/tree/master/2449-maximum-number-of-robots-within-budget) |
@@ -770,4 +775,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/omteja04/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/omteja04/LeetCode/tree/master/2449-maximum-number-of-robots-within-budget) |
+## Suffix Array
+|  |
+| ------- |
+| [1122-longest-duplicate-substring](https://github.com/omteja04/LeetCode/tree/master/1122-longest-duplicate-substring) |
 <!---LeetCode Topics End-->
