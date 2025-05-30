@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/omteja04/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1240-stone-game-ii](https://github.com/omteja04/LeetCode/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/omteja04/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1332-count-vowels-permutation](https://github.com/omteja04/LeetCode/tree/master/1332-count-vowels-permutation) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/omteja04/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/omteja04/LeetCode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/omteja04/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
