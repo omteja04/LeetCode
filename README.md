@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/omteja04/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/omteja04/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/omteja04/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1073-number-of-enclaves](https://github.com/omteja04/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1240-stone-game-ii](https://github.com/omteja04/LeetCode/tree/master/1240-stone-game-ii) |
 | [1284-four-divisors](https://github.com/omteja04/LeetCode/tree/master/1284-four-divisors) |
 | [1293-three-consecutive-odds](https://github.com/omteja04/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/omteja04/LeetCode/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/omteja04/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/omteja04/LeetCode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/omteja04/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/omteja04/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1876-map-of-highest-peak](https://github.com/omteja04/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/omteja04/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/omteja04/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0922-possible-bipartition](https://github.com/omteja04/LeetCode/tree/master/0922-possible-bipartition) |
 | [1036-rotting-oranges](https://github.com/omteja04/LeetCode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/omteja04/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1876-map-of-highest-peak](https://github.com/omteja04/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/omteja04/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/omteja04/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -591,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/omteja04/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/omteja04/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0922-possible-bipartition](https://github.com/omteja04/LeetCode/tree/master/0922-possible-bipartition) |
+| [1073-number-of-enclaves](https://github.com/omteja04/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/omteja04/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/omteja04/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Linked List
@@ -775,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/omteja04/LeetCode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/omteja04/LeetCode/tree/master/0547-number-of-provinces) |
 | [0922-possible-bipartition](https://github.com/omteja04/LeetCode/tree/master/0922-possible-bipartition) |
+| [1073-number-of-enclaves](https://github.com/omteja04/LeetCode/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
