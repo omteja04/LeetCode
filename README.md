@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/omteja04/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2300-construct-string-with-repeat-limit](https://github.com/omteja04/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/omteja04/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2475-largest-palindromic-number](https://github.com/omteja04/LeetCode/tree/master/2475-largest-palindromic-number) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/omteja04/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2685-first-completely-painted-row-or-column](https://github.com/omteja04/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [3227-find-missing-and-repeated-values](https://github.com/omteja04/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/omteja04/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/omteja04/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/omteja04/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2475-largest-palindromic-number](https://github.com/omteja04/LeetCode/tree/master/2475-largest-palindromic-number) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/omteja04/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2580-circular-sentence](https://github.com/omteja04/LeetCode/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/omteja04/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/omteja04/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/omteja04/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/omteja04/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2475-largest-palindromic-number](https://github.com/omteja04/LeetCode/tree/master/2475-largest-palindromic-number) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/omteja04/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/omteja04/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/omteja04/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -656,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1983-maximum-population-year](https://github.com/omteja04/LeetCode/tree/master/1983-maximum-population-year) |
 | [2300-construct-string-with-repeat-limit](https://github.com/omteja04/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/omteja04/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2475-largest-palindromic-number](https://github.com/omteja04/LeetCode/tree/master/2475-largest-palindromic-number) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/omteja04/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/omteja04/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/omteja04/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
