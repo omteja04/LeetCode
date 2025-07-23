@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/omteja04/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/omteja04/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/omteja04/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/omteja04/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/omteja04/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/omteja04/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2232-adding-spaces-to-a-string](https://github.com/omteja04/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/omteja04/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/omteja04/LeetCode/tree/master/0979-di-string-match) |
 | [1304-longest-happy-string](https://github.com/omteja04/LeetCode/tree/master/1304-longest-happy-string) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/omteja04/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1917-maximum-average-pass-ratio](https://github.com/omteja04/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/omteja04/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/omteja04/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/omteja04/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/omteja04/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/omteja04/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/omteja04/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/omteja04/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3447-clear-digits](https://github.com/omteja04/LeetCode/tree/master/3447-clear-digits) |
 ## Tree
