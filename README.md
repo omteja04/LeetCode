@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/omteja04/LeetCode/tree/master/1013-fibonacci-number) |
 | [1240-stone-game-ii](https://github.com/omteja04/LeetCode/tree/master/1240-stone-game-ii) |
 | [1284-four-divisors](https://github.com/omteja04/LeetCode/tree/master/1284-four-divisors) |
+| [1448-maximum-69-number](https://github.com/omteja04/LeetCode/tree/master/1448-maximum-69-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/omteja04/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/omteja04/LeetCode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/omteja04/LeetCode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/omteja04/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/omteja04/LeetCode/tree/master/0979-di-string-match) |
 | [1304-longest-happy-string](https://github.com/omteja04/LeetCode/tree/master/1304-longest-happy-string) |
+| [1448-maximum-69-number](https://github.com/omteja04/LeetCode/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/omteja04/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1917-maximum-average-pass-ratio](https://github.com/omteja04/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/omteja04/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
