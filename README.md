@@ -442,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/omteja04/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/omteja04/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/omteja04/LeetCode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/omteja04/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/omteja04/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/omteja04/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/omteja04/LeetCode/tree/master/0139-word-break) |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/omteja04/LeetCode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/omteja04/LeetCode/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/omteja04/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/omteja04/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/omteja04/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
