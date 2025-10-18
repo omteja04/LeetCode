@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/omteja04/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/omteja04/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/omteja04/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/omteja04/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/omteja04/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/omteja04/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/omteja04/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/omteja04/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/omteja04/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3195-separate-black-and-white-balls](https://github.com/omteja04/LeetCode/tree/master/3195-separate-black-and-white-balls) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/omteja04/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Enumeration
 |  |
 | ------- |
@@ -744,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/omteja04/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2689-rearranging-fruits](https://github.com/omteja04/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3291-find-if-array-can-be-sorted](https://github.com/omteja04/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/omteja04/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Rolling Hash
 |  |
 | ------- |
