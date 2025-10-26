@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/omteja04/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2155-find-missing-observations](https://github.com/omteja04/LeetCode/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/omteja04/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2169-simple-bank-system](https://github.com/omteja04/LeetCode/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/omteja04/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/omteja04/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/omteja04/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/omteja04/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/omteja04/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/omteja04/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2169-simple-bank-system](https://github.com/omteja04/LeetCode/tree/master/2169-simple-bank-system) |
 | [2215-finding-3-digit-even-numbers](https://github.com/omteja04/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2300-construct-string-with-repeat-limit](https://github.com/omteja04/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/omteja04/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/omteja04/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/omteja04/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2155-find-missing-observations](https://github.com/omteja04/LeetCode/tree/master/2155-find-missing-observations) |
+| [2169-simple-bank-system](https://github.com/omteja04/LeetCode/tree/master/2169-simple-bank-system) |
 | [2232-adding-spaces-to-a-string](https://github.com/omteja04/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/omteja04/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3447-clear-digits](https://github.com/omteja04/LeetCode/tree/master/3447-clear-digits) |
@@ -803,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/omteja04/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/omteja04/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/omteja04/LeetCode/tree/master/0859-design-circular-deque) |
+| [2169-simple-bank-system](https://github.com/omteja04/LeetCode/tree/master/2169-simple-bank-system) |
 ## Queue
 |  |
 | ------- |
