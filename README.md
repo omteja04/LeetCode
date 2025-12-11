@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/omteja04/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0416-partition-equal-subset-sum](https://github.com/omteja04/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/omteja04/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0475-heaters](https://github.com/omteja04/LeetCode/tree/master/0475-heaters) |
 | [0480-sliding-window-median](https://github.com/omteja04/LeetCode/tree/master/0480-sliding-window-median) |
 | [0494-target-sum](https://github.com/omteja04/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/omteja04/LeetCode/tree/master/0518-coin-change-ii) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/omteja04/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/omteja04/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/omteja04/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0475-heaters](https://github.com/omteja04/LeetCode/tree/master/0475-heaters) |
 | [0567-permutation-in-string](https://github.com/omteja04/LeetCode/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/omteja04/LeetCode/tree/master/0768-partition-labels) |
 | [0979-di-string-match](https://github.com/omteja04/LeetCode/tree/master/0979-di-string-match) |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/omteja04/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0374-guess-number-higher-or-lower](https://github.com/omteja04/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/omteja04/LeetCode/tree/master/0441-arranging-coins) |
+| [0475-heaters](https://github.com/omteja04/LeetCode/tree/master/0475-heaters) |
 | [0729-my-calendar-i](https://github.com/omteja04/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/omteja04/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0910-nth-magical-number](https://github.com/omteja04/LeetCode/tree/master/0910-nth-magical-number) |
@@ -751,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/omteja04/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/omteja04/LeetCode/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/omteja04/LeetCode/tree/master/0268-missing-number) |
+| [0475-heaters](https://github.com/omteja04/LeetCode/tree/master/0475-heaters) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/omteja04/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/omteja04/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/omteja04/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
