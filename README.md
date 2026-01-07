@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/omteja04/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/omteja04/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/omteja04/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2421-number-of-good-paths](https://github.com/omteja04/LeetCode/tree/master/2421-number-of-good-paths) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/omteja04/LeetCode/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/omteja04/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/omteja04/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/omteja04/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2300-construct-string-with-repeat-limit](https://github.com/omteja04/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/omteja04/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2421-number-of-good-paths](https://github.com/omteja04/LeetCode/tree/master/2421-number-of-good-paths) |
 | [2475-largest-palindromic-number](https://github.com/omteja04/LeetCode/tree/master/2475-largest-palindromic-number) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/omteja04/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2685-first-completely-painted-row-or-column](https://github.com/omteja04/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/omteja04/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/omteja04/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/omteja04/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [2421-number-of-good-paths](https://github.com/omteja04/LeetCode/tree/master/2421-number-of-good-paths) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/omteja04/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/omteja04/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/omteja04/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -773,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/omteja04/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/omteja04/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/omteja04/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2421-number-of-good-paths](https://github.com/omteja04/LeetCode/tree/master/2421-number-of-good-paths) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/omteja04/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/omteja04/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/omteja04/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -900,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/omteja04/LeetCode/tree/master/0922-possible-bipartition) |
 | [1073-number-of-enclaves](https://github.com/omteja04/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/omteja04/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [2421-number-of-good-paths](https://github.com/omteja04/LeetCode/tree/master/2421-number-of-good-paths) |
 ## Graph
 |  |
 | ------- |
@@ -909,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/omteja04/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0922-possible-bipartition](https://github.com/omteja04/LeetCode/tree/master/0922-possible-bipartition) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/omteja04/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2421-number-of-good-paths](https://github.com/omteja04/LeetCode/tree/master/2421-number-of-good-paths) |
 ## Binary Search Tree
 |  |
 | ------- |
