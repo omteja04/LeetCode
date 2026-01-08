@@ -521,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3617-find-the-original-typed-string-i](https://github.com/omteja04/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/omteja04/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/omteja04/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3798-largest-even-number](https://github.com/omteja04/LeetCode/tree/master/3798-largest-even-number) |
 ## Simulation
 |  |
 | ------- |
