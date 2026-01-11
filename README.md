@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/omteja04/LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/omteja04/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/omteja04/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/omteja04/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/omteja04/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/omteja04/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/omteja04/LeetCode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -685,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/omteja04/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/omteja04/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/omteja04/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/omteja04/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2421-number-of-good-paths](https://github.com/omteja04/LeetCode/tree/master/2421-number-of-good-paths) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/omteja04/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/omteja04/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -714,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/omteja04/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/omteja04/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/omteja04/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/omteja04/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/omteja04/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/omteja04/LeetCode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/omteja04/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -877,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/omteja04/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/omteja04/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/omteja04/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/omteja04/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/omteja04/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/omteja04/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/omteja04/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
