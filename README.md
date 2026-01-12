@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1801-average-time-of-process-per-machine](https://github.com/omteja04/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/omteja04/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/omteja04/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+| [3220-odd-and-even-transactions](https://github.com/omteja04/LeetCode/tree/master/3220-odd-and-even-transactions) |
 ## Array
 |  |
 | ------- |
