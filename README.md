@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/omteja04/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/omteja04/LeetCode/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/omteja04/LeetCode/tree/master/0740-delete-and-earn) |
+| [0840-magic-squares-in-grid](https://github.com/omteja04/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0859-design-circular-deque](https://github.com/omteja04/LeetCode/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/omteja04/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0967-minimum-falling-path-sum](https://github.com/omteja04/LeetCode/tree/master/0967-minimum-falling-path-sum) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/omteja04/LeetCode/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/omteja04/LeetCode/tree/master/0740-delete-and-earn) |
 | [0768-partition-labels](https://github.com/omteja04/LeetCode/tree/master/0768-partition-labels) |
+| [0840-magic-squares-in-grid](https://github.com/omteja04/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/omteja04/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/omteja04/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0906-walking-robot-simulation](https://github.com/omteja04/LeetCode/tree/master/0906-walking-robot-simulation) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/omteja04/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/omteja04/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0670-maximum-swap](https://github.com/omteja04/LeetCode/tree/master/0670-maximum-swap) |
+| [0840-magic-squares-in-grid](https://github.com/omteja04/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0910-nth-magical-number](https://github.com/omteja04/LeetCode/tree/master/0910-nth-magical-number) |
 | [0923-super-egg-drop](https://github.com/omteja04/LeetCode/tree/master/0923-super-egg-drop) |
 | [1013-fibonacci-number](https://github.com/omteja04/LeetCode/tree/master/1013-fibonacci-number) |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/omteja04/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/omteja04/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/omteja04/LeetCode/tree/master/0733-flood-fill) |
+| [0840-magic-squares-in-grid](https://github.com/omteja04/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0967-minimum-falling-path-sum](https://github.com/omteja04/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/omteja04/LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/omteja04/LeetCode/tree/master/1073-number-of-enclaves) |
