@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/omteja04/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/omteja04/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/omteja04/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/omteja04/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1524-string-matching-in-an-array](https://github.com/omteja04/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/omteja04/LeetCode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/omteja04/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -679,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/omteja04/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/omteja04/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/omteja04/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/omteja04/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/omteja04/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/omteja04/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/omteja04/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -932,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/omteja04/LeetCode/tree/master/0085-maximal-rectangle) |
 | [1002-maximum-width-ramp](https://github.com/omteja04/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/omteja04/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/omteja04/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/omteja04/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Union Find
