@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/omteja04/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/omteja04/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/omteja04/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/omteja04/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/omteja04/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/omteja04/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Dynamic Programming
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/omteja04/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3195-separate-black-and-white-balls](https://github.com/omteja04/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/omteja04/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3689-maximum-total-subarray-value-i](https://github.com/omteja04/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Enumeration
 |  |
 | ------- |
