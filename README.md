@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/omteja04/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/omteja04/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/omteja04/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/omteja04/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3689-maximum-total-subarray-value-i](https://github.com/omteja04/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/omteja04/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/omteja04/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/omteja04/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/omteja04/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [3291-find-if-array-can-be-sorted](https://github.com/omteja04/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/omteja04/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/omteja04/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Bitmask
 |  |
